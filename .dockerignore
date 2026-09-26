@@ -1,0 +1,9 @@
+.git
+.github
+node_modules
+test-results
+playwright-report
+.demo-venv
+.piper
+docs/demo
+*.log
