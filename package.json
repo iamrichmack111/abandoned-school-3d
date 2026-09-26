@@ -7,9 +7,12 @@
     "docker:build": "docker build -t abandoned-school-3d ."
   },
   "dependencies": {
+    "@remotion/cli": "^4.0.0",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
-    "remotion": "^4.0.0",
-    "@remotion/cli": "^4.0.0"
+    "remotion": "^4.0.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.63.0"
   }
 }
