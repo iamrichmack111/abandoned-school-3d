@@ -1,6 +1,6 @@
 {
   "name": "abandoned-school-3d",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "scripts": {
     "screenshots": "playwright test tests/screenshots.spec.cjs --project=chromium",
     "demo": "bash scripts/build-demo.sh",
