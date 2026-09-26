@@ -1,5 +1,13 @@
 # The Abandoned School — 3D Learning Horror
 
+
+[![CI + Playwright + Docker](https://github.com/iamrichmack111/abandoned-school-3d/actions/workflows/showcase.yml/badge.svg)](https://github.com/iamrichmack111/abandoned-school-3d/actions/workflows/showcase.yml)
+[![HQ Piper Remotion Demo](https://github.com/iamrichmack111/abandoned-school-3d/actions/workflows/demo.yml/badge.svg)](https://github.com/iamrichmack111/abandoned-school-3d/actions/workflows/demo.yml)
+![Docker](https://img.shields.io/badge/container-Docker-2496ED?logo=docker&logoColor=white)
+![Playwright](https://img.shields.io/badge/tested%20with-Playwright-2EAD33?logo=playwright&logoColor=white)
+![Remotion](https://img.shields.io/badge/video-Remotion-0B84F3)
+![Piper](https://img.shields.io/badge/voice-Piper%20TTS-7A5AF8)
+
 ![The creature stalking the school hallway](assets/creature-hallway.png)
 
 ## Story
@@ -145,13 +153,6 @@ Open **View Grades** from the game menu to see previous attempts or export them 
 ![Gameplay](docs/screenshots/03-gameplay.png)
 
 <!-- SHOWCASE:START -->
-
-[![CI + Playwright + Docker](https://github.com/iamrichmack111/abandoned-school-3d/actions/workflows/showcase.yml/badge.svg)](https://github.com/iamrichmack111/abandoned-school-3d/actions/workflows/showcase.yml)
-[![HQ Piper Remotion Demo](https://github.com/iamrichmack111/abandoned-school-3d/actions/workflows/demo.yml/badge.svg)](https://github.com/iamrichmack111/abandoned-school-3d/actions/workflows/demo.yml)
-![Docker](https://img.shields.io/badge/container-Docker-2496ED?logo=docker&logoColor=white)
-![Playwright](https://img.shields.io/badge/tested%20with-Playwright-2EAD33?logo=playwright&logoColor=white)
-![Remotion](https://img.shields.io/badge/video-Remotion-0B84F3)
-![Piper](https://img.shields.io/badge/voice-Piper%20TTS-7A5AF8)
 
 ## Screenshots
 
