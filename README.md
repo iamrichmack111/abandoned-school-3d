@@ -132,3 +132,14 @@ http://127.0.0.1:8099
 Grades are stored locally in the browser using `localStorage`.
 
 Open **View Grades** from the game menu to see previous attempts or export them as a CSV file.
+
+## Screenshots
+
+### Start Screen
+![Start Screen](docs/screenshots/01-start-screen.png)
+
+### Grade History
+![Grade History](docs/screenshots/02-grade-history.png)
+
+### Gameplay
+![Gameplay](docs/screenshots/03-gameplay.png)
